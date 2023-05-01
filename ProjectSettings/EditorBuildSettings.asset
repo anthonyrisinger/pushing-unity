@@ -27,7 +27,7 @@ EditorBuildSettings:
     path: Assets/_Game/Levels/7 GPU Instancing Indirect/Level 7.unity
     guid: e347544e4a708da409a2b2206f047b3f
   - enabled: 1
-    path: Assets/_Game/Levels/8 GPU Instancing Direct Interaction/Level 8.unity
+    path: Assets/_Game/Levels/8 GPU Instancing Indirect Interaction/Level 8.unity
     guid: ce4132036bbb5be47a2d589aa85ac919
   - enabled: 1
     path: Assets/_Game/Levels/9 Caching Extern Calls/Level 9.unity
