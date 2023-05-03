@@ -608,8 +608,8 @@ MonoBehaviour:
   _nameText: {fileID: 3102135670343689086}
   _slider: {fileID: 7935808049815986906}
   <ColorArray>k__BackingField:
+  - {r: 0.69803923, g: 0.8980392, b: 0.13333334, a: 1}
   - {r: 1, g: 0.60784316, b: 0, a: 1}
-  - {r: 0.0073928833, g: 1, b: 0, a: 1}
   - {r: 1, g: 0, b: 0.77220345, a: 1}
   - {r: 0, g: 0.9322505, b: 1, a: 1}
   - {r: 0.8275633, g: 0, b: 1, a: 1}
@@ -678,6 +678,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
